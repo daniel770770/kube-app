@@ -16,15 +16,15 @@ spec:
     spec:
       containers:
         - name: vprodb
-        image: vprofile770/vprofiledb:V1
-        args:
-          - "ignore-db-dir=lost+found"
-        volumeMounts:
-          - mountPath: /var/lib/mysql
-            name: vpro-db-data
-        ports:
-          - name: vprodb-port
-            containerPort: 3306
+          image: vprofile770/vprofiledb:V1
+          args:
+            - "ignore-db-dir=lost+found"
+          volumeMounts:
+            - mountPath: /var/lib/mysql
+              name: vpro-db-data
+          ports:
+            - name: vprodb-port
+              containerPort: 3306
           env:
             - name: MYSQL_ROOT_PASSWORD
               valueFrom:
