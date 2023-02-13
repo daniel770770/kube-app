@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fc7fdfd-a194-48d6-a753-d0d0a87ee0c3" name="Changes" comment="db pod deplffteretroescserZ3erVlc3gsefhg=">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app-secret.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/app-secret.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vprodbdep.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/vprodbdep.yaml" afterDir="false" />
-    </list>
+    <list default="true" id="6fc7fdfd-a194-48d6-a753-d0d0a87ee0c3" name="Changes" comment="db pod" />
     <list id="48cf936e-774f-4534-8fef-55d20e41c83d" name="New changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -307,14 +303,22 @@
       <option name="project" value="LOCAL" />
       <updated>1676299947365</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="db pod">
+      <created>1676302497217</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1676302497217</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="secret" />
     <MESSAGE value="db pod deploy" />
     <MESSAGE value="db pod deplffteretroescserZ3erVlc3gsefhg=" />
-    <option name="LAST_COMMIT_MESSAGE" value="db pod deplffteretroescserZ3erVlc3gsefhg=" />
+    <MESSAGE value="db pod" />
+    <option name="LAST_COMMIT_MESSAGE" value="db pod" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
