@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6fc7fdfd-a194-48d6-a753-d0d0a87ee0c3" name="Changes" comment="db pod deplfftereroescserZ3erVlc3gsefhg=" />
+    <list id="48cf936e-774f-4534-8fef-55d20e41c83d" name="New changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JnyOF6o9suUGySaAJA4GiruLuT" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Admin/Downloads/clouds-kubernetes-223.8617.8.zip",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6fc7fdfd-a194-48d6-a753-d0d0a87ee0c3" name="Changes" comment="" />
+      <changelist id="48cf936e-774f-4534-8fef-55d20e41c83d" name="New changelist" comment="" />
+      <created>1672728107551</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672728107551</updated>
+    </task>
+    <task id="LOCAL-00001" summary="secret">
+      <created>1672732179961</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672732179961</updated>
+    </task>
+    <task id="LOCAL-00002" summary="db pod deploy">
+      <created>1672736419528</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1672736419528</updated>
+    </task>
+    <task id="LOCAL-00003" summary="db pod deploy">
+      <created>1672736692621</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1672736692621</updated>
+    </task>
+    <task id="LOCAL-00004" summary="db pod deploy">
+      <created>1672736747448</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1672736747448</updated>
+    </task>
+    <task id="LOCAL-00005" summary="db pod deploy">
+      <created>1672737491029</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1672737491029</updated>
+    </task>
+    <task id="LOCAL-00006" summary="db pod deploy">
+      <created>1672740218250</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1672740218250</updated>
+    </task>
+    <task id="LOCAL-00007" summary="db pod deploy">
+      <created>1672741358642</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1672741358642</updated>
+    </task>
+    <task id="LOCAL-00008" summary="db pod deploy">
+      <created>1672742459948</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1672742459948</updated>
+    </task>
+    <task id="LOCAL-00009" summary="db pod deploy">
+      <created>1672742647349</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1672742647349</updated>
+    </task>
+    <task id="LOCAL-00010" summary="db pod deploy">
+      <created>1672742833673</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1672742833673</updated>
+    </task>
+    <task id="LOCAL-00011" summary="db pod deploy">
+      <created>1672743602152</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1672743602152</updated>
+    </task>
+    <task id="LOCAL-00012" summary="db pod deploy">
+      <created>1672743953304</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1672743953304</updated>
+    </task>
+    <task id="LOCAL-00013" summary="db pod deploy">
+      <created>1672745479084</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1672745479084</updated>
+    </task>
+    <task id="LOCAL-00014" summary="db pod deploy">
+      <created>1672746700319</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1672746700319</updated>
+    </task>
+    <task id="LOCAL-00015" summary="db pod deploy">
+      <created>1672747427437</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1672747427437</updated>
+    </task>
+    <task id="LOCAL-00016" summary="db pod deploy">
+      <created>1672747550100</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1672747550100</updated>
+    </task>
+    <task id="LOCAL-00017" summary="db pod deploy">
+      <created>1672749289598</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1672749289598</updated>
+    </task>
+    <task id="LOCAL-00018" summary="db pod deploy">
+      <created>1672749659334</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1672749659334</updated>
+    </task>
+    <task id="LOCAL-00019" summary="db pod deploy">
+      <created>1672751372104</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1672751372104</updated>
+    </task>
+    <task id="LOCAL-00020" summary="db pod deploy">
+      <created>1672751603783</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1672751603783</updated>
+    </task>
+    <task id="LOCAL-00021" summary="db pod deploy">
+      <created>1672752008035</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1672752008035</updated>
+    </task>
+    <task id="LOCAL-00022" summary="db pod deploy">
+      <created>1672752790006</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1672752790006</updated>
+    </task>
+    <task id="LOCAL-00023" summary="db pod deploy">
+      <created>1672753112269</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1672753112269</updated>
+    </task>
+    <task id="LOCAL-00024" summary="db pod deploy">
+      <created>1672753390589</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1672753390589</updated>
+    </task>
+    <task id="LOCAL-00025" summary="db pod deploy">
+      <created>1672753725005</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1672753725005</updated>
+    </task>
+    <task id="LOCAL-00026" summary="db pod deploy">
+      <created>1672816293758</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1672816293758</updated>
+    </task>
+    <task id="LOCAL-00027" summary="db pod deploy">
+      <created>1672817902515</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1672817902515</updated>
+    </task>
+    <task id="LOCAL-00028" summary="db pod deploy">
+      <created>1672820059088</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1672820059088</updated>
+    </task>
+    <task id="LOCAL-00029" summary="db pod deploy">
+      <created>1672820197248</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1672820197248</updated>
+    </task>
+    <task id="LOCAL-00030" summary="db pod deploy">
+      <created>1672821782932</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1672821782932</updated>
+    </task>
+    <task id="LOCAL-00031" summary="db pod deploy">
+      <created>1672822946813</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1672822946813</updated>
+    </task>
+    <task id="LOCAL-00032" summary="db pod deploy">
+      <created>1672823050162</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1672823050162</updated>
+    </task>
+    <task id="LOCAL-00033" summary="db pod deploy">
+      <created>1672823781393</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1672823781393</updated>
+    </task>
+    <task id="LOCAL-00034" summary="db pod deploy">
+      <created>1672825303155</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1672825303155</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="secret" />
+    <MESSAGE value="db pod deploy" />
+    <option name="LAST_COMMIT_MESSAGE" value="db pod deploy" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
