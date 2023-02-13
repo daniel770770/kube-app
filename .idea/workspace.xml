@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fc7fdfd-a194-48d6-a753-d0d0a87ee0c3" name="Changes" comment="db pod deplfftereroescserZ3erVlc3gsefhg=" />
+    <list default="true" id="6fc7fdfd-a194-48d6-a753-d0d0a87ee0c3" name="Changes" comment="db pod deplffteretroescserZ3erVlc3gsefhg=">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-secret.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/app-secret.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vprodbdep.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/vprodbdep.yaml" afterDir="false" />
+    </list>
     <list id="48cf936e-774f-4534-8fef-55d20e41c83d" name="New changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,10 +33,25 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Admin/Downloads/clouds-kubernetes-223.8617.8.zip",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "last_opened_file_path": "C:/Users/Admin/Downloads/clouds-kubernetes-231.6890.12.zip",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="kube-app" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="kube-app" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -281,13 +300,21 @@
       <option name="project" value="LOCAL" />
       <updated>1672825303155</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="db pod deplffteretroescserZ3erVlc3gsefhg=">
+      <created>1676299947365</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1676299947365</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="secret" />
     <MESSAGE value="db pod deploy" />
-    <option name="LAST_COMMIT_MESSAGE" value="db pod deploy" />
+    <MESSAGE value="db pod deplffteretroescserZ3erVlc3gsefhg=" />
+    <option name="LAST_COMMIT_MESSAGE" value="db pod deplffteretroescserZ3erVlc3gsefhg=" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
